@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋, I'm Amit Sarkar . I'm a Mern Stack Web-Developer.<br>I'm currently studying on computer science and engineering (CSE)<br>I'm passionate on  front end web-development and also a MERN-Stack web-development since 2024.<br>I'm highly interested in programming.
+👋 Hi, I'm Amit Sarkar — a Computer Science and Engineering student with a strong passion for Web Development and Competitive Programming.
+🌐 I love building user-friendly websites and learning modern web technologies.
+💻 In my free time, I solve coding problems to sharpen my algorithmic thinking.
+🚀 Always curious, always learning.
 
 
 ## 🌐 Socials:
