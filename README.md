@@ -1,8 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Amit Sarkar — A Computer Science and Engineering student with a strong passion for Web Development and Competitive Programming.
-🌐 I love building user-friendly websites and learning modern web technologies.
-💻 In my free time, I solve coding problems to sharpen my algorithmic thinking.
-🚀 Always curious, always learning.
+👋 Hi, I’m Amit Sarkar — a passionate Frontend and MERN Stack Developer who loves building clean, responsive, and user-friendly web applications.
+
+💻 Skilled in React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Node.js, Express.js, MongoDB, and Firebase, I focus on turning creative ideas into efficient, real-world web solutions.
+
+🚀 I’ve built several full-featured projects like GadgetHub (E-commerce app) and Bookish (Book store dashboard) using modern web tools.
+
+🌱 I’m continuously learning advanced React patterns, API integration, and backend development to grow into a full-stack developer.
+
+💼 I’m open to remote Frontend / Full Stack roles, freelance projects, or internships — let’s connect and build something great together!
  
 Email : amitsarkar.dev.bd@gmail.com
 
