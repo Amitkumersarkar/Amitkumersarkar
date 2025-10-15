@@ -3,8 +3,6 @@
 
 💻 Skilled in React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Node.js, Express.js, MongoDB, and Firebase, JWT, Axios I focus on turning creative ideas into efficient, real-world web solutions.
 
-🚀 I’ve built several full-featured projects like GadgetHub (E-commerce app) and Bookish (Book store dashboard) using modern web tools.
-
 🌱 I’m continuously learning advanced React patterns, API integration, and backend development to grow into a full-stack developer.
 
 💼 I’m open to remote Frontend / Full Stack roles, freelance projects, or internships — let’s connect and build something great together!
