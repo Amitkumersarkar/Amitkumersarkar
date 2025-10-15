@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Amit Sarkar — a passionate Frontend and MERN Stack Developer who loves building clean, responsive, and user-friendly web applications.
 
-💻 Skilled in React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Node.js, Express.js, MongoDB, and Firebase,JWT,Axios I focus on turning creative ideas into efficient, real-world web solutions.
+💻 Skilled in React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Node.js, Express.js, MongoDB, and Firebase, JWT, Axios I focus on turning creative ideas into efficient, real-world web solutions.
 
 🚀 I’ve built several full-featured projects like GadgetHub (E-commerce app) and Bookish (Book store dashboard) using modern web tools.
 
