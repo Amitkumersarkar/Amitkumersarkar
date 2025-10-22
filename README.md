@@ -60,9 +60,9 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 [🛒 GadgetHaven E-Commerce](https://github.com/Amitkumersarkar/gadgethaven)
-A full-featured shopping experience with filters, wishlist, persistent cart, and analytics.  
-🧩 *Tech:* React, Tailwind, Context API, Firebase, Chart.js  
+### 🔹 [💼 E-Jobs Agency AI](https://github.com/Amitkumersarkar)
+A smart AI-powered job portal with seamless job suggestions, user authentication, and admin dashboard.  
+🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay Payments, GASP Animation, Framer Motion
 
 ### 🔹 [💼 Job Portal App](https://github.com/Amitkumersarkar/job-portal)
 A complete job portal with user authentication, job posting, and application tracking.  
