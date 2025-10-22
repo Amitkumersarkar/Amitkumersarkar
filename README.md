@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+junior+roles+🌎" alt="Typing animation" />
 </p>
 
-
-
-
 ---
 
 <p align="center">
@@ -24,10 +21,10 @@
 
 💡 Passionate about building dynamic, interactive, and accessible user experiences.  
 🎓 CSE student at **Bangladesh University of Business and Technology (BUBT)**.  
-⚛️ Experienced with **React, Tailwind CSS, Firebase, Node.js, Express, MongoDB**.  
+⚛️ Experienced with **React, Tailwind CSS, Firebase, Node.js, Express, MongoDB, SSLCommerz**.  
 🚀 Currently mastering **Next.js, TypeScript**, and **Advanced MERN Concepts**.  
 🧩 Exploring **Data Structures & Algorithms** for problem-solving excellence.  
-💬 Ask me about **Frontend, React, Firebase Auth, JWT, Axios, Stripe/Razorpay, Framer Motion, Material UI**.  
+💬 Ask me about **Frontend, React, Firebase Auth, JWT, Axios, SSLCommerz, Stripe/Razorpay, Framer Motion, Material UI**.  
 📫 Reach me at **amit.sarkar.dev@gmail.com**  
 🎯 Goal: Become a **Full-Stack Developer** ready for global remote opportunities.
 
@@ -52,7 +49,8 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
+  <img src="https://img.shields.io/badge/SSLCommerz-Payments-0081CB?style=for-the-badge&logo=sslcommerz&logoColor=white"/>
+
   <!-- Tools & Libraries -->
   <img src="https://img.shields.io/badge/JWT-Auth-323330?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-HTTP-232F34?style=for-the-badge&logo=axios&logoColor=white"/>
@@ -74,7 +72,7 @@
 
 ### 🔹 [💼 E-Jobs](https://github.com/Amitkumersarkar/e-jobs)
 A complete job portal with user authentication, job posting, and application tracking.  
-🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay Payments, Framer Motion, GASP Animations
+🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay/SSLCommerz Payments, Framer Motion, GASP Animations
 
 ### 🔹 [🤖 Agency AI](https://github.com/Amitkumersarkar/agency-ai)
 An AI-powered project management/agency application with smart suggestions and admin analytics dashboard.  
