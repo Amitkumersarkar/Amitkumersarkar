@@ -2,7 +2,7 @@
 <img src="https://github.com/Amitkumersarkar/Amitkumersarkar/assets/banner-gif.gif" width="100%" alt="Banner"/>
 
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Learner | CSE Student at BUBT</h3>
+<h3 align="center">🚀 Frontend Developer |Full Stack Enthusiast | MERN Stack Developer | CSE Student at BUBT</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=450&lines=Building+beautiful+UIs+with+React+⚛️;Loving+Tailwind+CSS+and+DaisyUI+💅;Learning+DSA+and+Backend+💻;Open+to+remote+frontend+roles+🌎" alt="Typing animation" />
