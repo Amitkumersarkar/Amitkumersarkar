@@ -107,7 +107,7 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-sarkar" target="_blank">
+  <a href="https://www.linkedin.com/in/amit-sarkar-63504b252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amit.sarkar.dev@gmail.com" target="_blank">
@@ -117,6 +117,7 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
