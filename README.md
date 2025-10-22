@@ -117,9 +117,6 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
   <a href="https://github.com/Amitkumersarkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://portfolio-amit.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
