@@ -1,73 +1,106 @@
-<!-- =============================== -->
-<!-- 🌈 Developer Animated Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/6R5ZVnG/developer-banner.gif" alt="Developer Banner" width="100%" />
-</p>
-
-<h1 align="center">🙏 Namaste, I'm <span style="color:#58a6ff;">Amit Sarkar</span></h1>
-<h3 align="center">💻 Frontend & MERN Stack Developer | C Programmer | CSE Student at BUBT</h3>
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | CSE Student at BUBT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+UIs+with+React+✨;Building+Scalable+MERN+Apps+🚀;C+Programming+%26+DSA+💡;Following+Indian+Culture+🙏" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Amitkumersarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Amitkumersarkar" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
-```javascript
-const amit = {
-    name: "Amit Sarkar",
-    role: "Frontend & MERN Stack Developer | C Programmer",
-    code: ["C", "C++", "JavaScript", "Python"],
-    askMeAbout: ["Web Dev", "Frontend", "MERN Stack", "Problem Solving", "API Integration"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS", "DaisyUI"],
-        backEnd: ["Node.js", "Express.js", "MongoDB", "Firebase"],
-        others: [
-            "JWT Auth", "Axios API", "Stripe & Razorpay", "Firebase Auth",
-            "Responsive UI/UX", "DSA Algorithms"
-        ],
-    },
-    tools: ["Git", "Vercel", "Netlify", "VS Code", "Figma", "Postman"],
-    currentFocus: "Building full-stack apps & mastering DSA",
-};
+🎓 I'm a passionate **Frontend Developer** and **MERN Stack learner** pursuing my B.Sc. in CSE at **BUBT**.  
+💡 I enjoy building interactive, modern web applications with **React, Tailwind CSS, and Firebase**.  
+🚀 I’m continuously learning **DSA** and **Backend (Node.js, Express, MongoDB)** to become a full-stack developer.  
+💬 Ask me about anything related to **React, Tailwind, Firebase, and Frontend Development**.  
+🌱 Currently learning **Next.js** & **Advanced MERN Concepts**.  
+📫 Reach me at **amit.sarkar.dev@gmail.com**  
 
-⚡ Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,vercel,netlify,html,css,javascript,python,vscode,figma,postman" /><br> <img src="https://img.shields.io/badge/JWT-Auth-%23323330?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-HTTP-%23282C34?style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-Payments-%23646EDE?style=for-the-badge&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-Integration-%23007EE5?style=for-the-badge&logo=razorpay&logoColor=white"/> </p>
-💼 Featured Projects
-1️⃣ E Jobs Agency AI
+---
 
-A smart AI-powered job portal with seamless user experience and job suggestions.
-🧩 Stack: React, Node.js, Express, MongoDB, Tailwind, JWT, Axios
-🔗 Repo
- · Live Demo Coming Soon
+## 🧠 Tech Stack  
 
-2️⃣ Movies Galaxy
+### 💻 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Movie discovery and streaming platform with filters, ratings, and user authentication.
-🧩 Stack: React, Firebase, Node.js, Express, Tailwind
-🔗 Repo
- · Live Demo Coming Soon
+### ⚙️ Backend & Database  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-3️⃣ GadgetHaven / Job Portal
+### 🧩 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Full-stack e-commerce / job platform projects demonstrating MERN stack, JWT Auth, and payment integration.
-🧩 Stack: React, Node.js, Express, MongoDB, Tailwind, JWT, Stripe
-🔗 Repo
- · Live Site
+---
 
-🧠 C Programming & DSA
+## 🌟 Featured Projects  
 
-My foundation started with C, building logical thinking and problem-solving skills that power my full-stack development.
+### 🔹 [GadgetHaven E-Commerce](https://github.com/Amitkumersarkar/gadgethaven)
+🛒 A modern e-commerce platform built with React, Tailwind CSS, and Context API.  
+✨ Features: Product listing, cart/wishlist, sorting, filtering, persistent data, modals, and charts.
 
-<p align="center"> <img src="https://img.shields.io/badge/C%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-Problem%20Solving-%2300A8E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Competitive%20Programming-%23F79F1F?style=for-the-badge"/> </p>
-📊 GitHub Stats
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=tokyonight" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=default" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=tokyonight" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=tokyonight" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=default" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=tokyonight" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=tokyonight" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=default" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=tokyonight" /> </picture> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/amitkumersarkar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:amitkumersarkar@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-✨ Quote
+### 🔹 [Job Portal App](https://github.com/Amitkumersarkar/job-portal)
+💼 A MERN-based job portal with authentication, job posting, and application tracking.  
+⚡ Tech: React, Node, Express, MongoDB, Firebase Auth, Vercel deployment.
 
-"Code with culture, create with clarity, and build with belief." 💫
+### 🔹 [DSA Practice & Notes](https://github.com/Amitkumersarkar/dsa-practice)
+🧠 Solved problems on Stack, Queue, Sorting, and Recursion with clear explanations.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p> ```
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧩 Competitive Programming  
+
+🧠 Learning **Data Structures & Algorithms** to strengthen my problem-solving skills.  
+📚 Topics: Stack, Queue, Recursion, Sorting, Searching, Linked List.  
+🚀 Planning to share my solutions and explanations in my DSA repositories soon.
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-sarkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amit.sarkar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Amitkumersarkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐ **“Code. Learn. Build. Repeat.”**
