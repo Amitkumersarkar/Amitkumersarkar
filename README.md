@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Frontend Developer | Full Stack Enthusiast | MERN Stack Developer | CSE Student at BUBT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=450&lines=Building+beautiful+UIs+with+React+⚛️;Loving+Tailwind+CSS+and+DaisyUI+💅;Learning+DSA+and+Backend+💻;Open+to+remote+frontend+roles+🌎" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Namaste+🙏+Embracing+Indian+Culture;Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly" alt="Typing animation" />
 </p>
 
 ---
@@ -69,13 +69,13 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 [💼 E-Jobs Agency AI](https://github.com/Amitkumersarkar)
-A smart AI-powered job portal with seamless job suggestions, user authentication, and admin dashboard.  
-🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay Payments, GASP Animation, Framer Motion
-
-### 🔹 [💼 Job Portal App](https://github.com/Amitkumersarkar/job-portal)
+### 🔹 [💼 E-Jobs](https://github.com/Amitkumersarkar/e-jobs)
 A complete job portal with user authentication, job posting, and application tracking.  
-⚡ *Tech:* MERN Stack, Firebase Auth, Vercel Deployment  
+🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay Payments, Framer Motion, GASP Animations
+
+### 🔹 [🤖 Agency AI](https://github.com/Amitkumersarkar/agency-ai)
+An AI-powered project management/agency application with smart suggestions and admin analytics dashboard.  
+🧩 *Tech:* React, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, JWT Auth, Axios, AI Integrations
 
 ### 🔹 [🧠 DSA Practice & Notes](https://github.com/Amitkumersarkar/dsa-practice)
 Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recursion topics.
