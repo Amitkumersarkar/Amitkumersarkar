@@ -93,17 +93,33 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
-  
-  <br>
-  <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=radical" />
-</p>
+  <!-- Container Table for Desktop Layout -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical"
+             alt="Amit's GitHub stats"
+             style="max-width: 100%; height: auto;"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkumersarkar&theme=radical"
+             alt="Amit's GitHub streak"
+             style="max-width: 100%; height: auto;"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=radical"
+       alt="Top Languages"
+       style="max-width: 100%; height: auto;" />
+
+</div>
+
 
 ---
 
