@@ -85,9 +85,10 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
+  
   <br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
 </p>
 
 <p align="center">
