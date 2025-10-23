@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+Junior+Role" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+Jr" alt="Typing animation" />
 </p>
 
 <p align="center">
