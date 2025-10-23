@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/github/followers/Amitkumersarkar?label=Followers&style=social" alt="followers" />
 </p>
 
----
 <p align="center">
   <img src="./assets/header_.png" alt="header bg" />
 </p>
+---
 
 
 ## 🧑‍💻 About Me  
