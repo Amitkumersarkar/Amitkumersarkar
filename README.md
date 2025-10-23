@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
 <h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast |🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+Junior+Role" alt="Typing animation" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amitkumersarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
