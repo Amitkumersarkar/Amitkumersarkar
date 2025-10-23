@@ -88,7 +88,7 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
 </p>
-
+  ---
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumersarkar&layout=compact&theme=radical" />
 </p>
@@ -110,14 +110,10 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  
-  ---
   <a href="mailto:amitsarkar.dev.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  
-  ---
   <a href="https://github.com/Amitkumersarkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
