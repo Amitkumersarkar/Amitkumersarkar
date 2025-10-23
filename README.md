@@ -1,5 +1,7 @@
 <!-- ======================= HEADER SECTION ======================= -->
-<img src="https://github.com/Amitkumersarkar/Amitkumersarkar/assets/banner-gif.gif" width="100%" alt="Banner"/>
+<p align="center">
+  <img src="./920a987a-dbe1-4551-8963-595db686a215.svg" width="100%" alt="Banner"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
 <h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast |🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
@@ -78,10 +80,11 @@
 
 ### 🔹 [💼 E-Jobs](https://github.com/Amitkumersarkar/e-jobs)
 A complete job portal with user authentication, job posting, and application tracking.  
-🧩 *Tech:* React.js, Node.js, Express.js, MongoDB, Firebase Auth, Tailwind CSS, DaisyUI, Framer Motion, SweetAlert2, React Toastify, REST API, Responsive Desig
+🧩 *Tech:* React.js, Node.js, Express.js, MongoDB, Firebase Auth, Tailwind CSS, DaisyUI, Framer Motion, SweetAlert2, React Toastify, REST API, Responsive Design
+
 ### 🔹 [🤖 Agency AI](https://github.com/Amitkumersarkar/agency-ai)
 An AI-powered project management/agency application with smart suggestions and admin analytics dashboard.  
-🧩 *Tech:* React,Tailwind CSS, DaisyUI, Framer Motion, React Router, React Hot Toast, and Web3Forms.
+🧩 *Tech:* React, Tailwind CSS, DaisyUI, Framer Motion, React Router, React Hot Toast, and Web3Forms.
 
 ### 🔹 [🧠 DSA Practice & Notes](https://github.com/Amitkumersarkar/dsa-practice)
 Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recursion topics.
@@ -126,7 +129,6 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
