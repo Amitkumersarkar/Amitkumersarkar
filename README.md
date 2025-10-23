@@ -150,7 +150,7 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 ---
 
 ## 👩‍💻 Working Mode Activated
-<p align="center">
+<p align="center" width="100%">
 <img src="./assets/animated.gif" alt="working mode activation animation" />
 </p>
 
