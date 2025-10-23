@@ -96,20 +96,20 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 <div align="center">
 
   <!-- Container Table for Desktop Layout -->
-  <table>
+  <div>
     <tr>
-      <td align="center" width="70%">
+      <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical"
              alt="Amit's GitHub stats"
              style="max-width: 100%; height: auto;"/>
       </td>
-      <td align="center" width="70%">
+      <td align="center" width="80%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkumersarkar&theme=radical"
              alt="Amit's GitHub streak"
              style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
-  </table>
+  </div>
 
   <br>
 
