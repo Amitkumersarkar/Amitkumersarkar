@@ -1,6 +1,6 @@
 <!-- ======================= HEADER SECTION ======================= -->
 <p align="center">
-  <img src="./920a987a-dbe1-4551-8963-595db686a215.svg" width="100%" alt="Banner"/>
+  <img src="./assets/matrix.svg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
@@ -96,6 +96,7 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amitkumersarkar&show_icons=true&theme=radical" />
   
+  <br>
   <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumersarkar&theme=radical" />
 </p>
