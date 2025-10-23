@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast |🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+junior+roles+🌎" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8906&width=500&lines=Building+beautiful+UIs+with+React+⚛️;Mastering+MERN+Stack+💻;Solving+DSA+problems+weekly;Open+to+remote+Frontend+or+MERN+Stack+junior+roles" alt="Typing animation" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 🚀 Currently mastering **Next.js, TypeScript**, and **Advanced MERN Concepts**.  
 🧩 Exploring **Data Structures & Algorithms** for problem-solving excellence.  
 💬 Ask me about **Frontend, React, Firebase Auth, JWT, Axios, SSLCommerz, Stripe/Razorpay, Framer Motion, Material UI**.  
-📫 Reach me at **amit.sarkar.dev@gmail.com**  
+📫 Reach me at **amitsarkar.dev.bd@gmail.com**  
 🎯 Goal: Become a **Full-Stack Developer** ready for global remote opportunities.
 
 ---
@@ -72,11 +72,10 @@
 
 ### 🔹 [💼 E-Jobs](https://github.com/Amitkumersarkar/e-jobs)
 A complete job portal with user authentication, job posting, and application tracking.  
-🧩 *Tech:* React, Next.js, TypeScript, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Firebase, JWT Auth, Axios, Stripe/Razorpay/SSLCommerz Payments, Framer Motion, GASP Animations
-
+🧩 *Tech:* React.js, Node.js, Express.js, MongoDB, Firebase Auth, Tailwind CSS, DaisyUI, Framer Motion, SweetAlert2, React Toastify, REST API, Responsive Desig
 ### 🔹 [🤖 Agency AI](https://github.com/Amitkumersarkar/agency-ai)
 An AI-powered project management/agency application with smart suggestions and admin analytics dashboard.  
-🧩 *Tech:* React, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, JWT Auth, Axios, AI Integrations
+🧩 *Tech:* React,Tailwind CSS, DaisyUI, Framer Motion, React Router, React Hot Toast, and Web3Forms.
 
 ### 🔹 [🧠 DSA Practice & Notes](https://github.com/Amitkumersarkar/dsa-practice)
 Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recursion topics.
@@ -110,9 +109,11 @@ Collection of solved problems and lab tasks from Stack, Queue, Sorting, and Recu
   <a href="https://www.linkedin.com/in/amit-sarkar-63504b252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:amit.sarkar.dev@gmail.com" target="_blank">
+  ---
+  <a href="mailto:amitsarkar.dev.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  ---
   <a href="https://github.com/Amitkumersarkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
