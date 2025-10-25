@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me  
 
-💡 A passionate Frontend and MERN Stack Developer who loves building clean, responsive, and user-friendly web applications. Passionate about building dynamic, interactive, and accessible user experiences.  
+💡 A passionate Frontend and MERN Stack Developer who loves building clean, responsive, and user-friendly web applications.  
 🎓 CSE student at **Bangladesh University of Business and Technology (BUBT)**.  
 ⚛️ Experienced with **React, Tailwind CSS, Firebase, Node.js, Express, MongoDB, SSLCommerz**.  
 🚀 Currently mastering **Next.js, TypeScript**, and **Advanced MERN Concepts**.  
