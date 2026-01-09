@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
-<h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast | 👨‍💻 DevOps Enthusiast|🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN & PERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
+<h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast | 👨‍💻 DevOps Enthusiast |🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN & PERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
 
 ---
 
