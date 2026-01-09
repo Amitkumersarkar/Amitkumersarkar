@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Sarkar</h1>
-<h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast |🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
+<h3 align="center">🚀 Frontend Developer |👨‍💻 Full Stack Enthusiast | 👨‍💻 DevOps Enthusiast|🤖 AI Enthusiast | 🌍 Open Source Advocate |👨‍💻 MERN & PERN Stack Developer |👨‍🎓 CSE Student at BUBT</h3>
 
 ---
 
@@ -26,12 +26,12 @@
 
 ## 🧑‍💻 About Me  
 
-💡 A passionate Frontend and MERN Stack Developer who loves building clean, responsive, and user-friendly web applications.  
+💡 A passionate Frontend and MERN & PERN Stack Developer who loves building clean, responsive, and user-friendly web applications.  
 🎓 CSE student at **Bangladesh University of Business and Technology (BUBT)**.  
-⚛️ Experienced with **React, Tailwind CSS, Firebase, Node.js, Express, MongoDB, SSLCommerz**.  
+⚛️ Experienced with **React, Tailwind CSS, Firebase, Node.js, Express, MongoDB,Postgresql, SSLCommerz**.  
 🚀 Currently mastering **Next.js, TypeScript**, and **Advanced MERN Concepts**.  
 🧩 Exploring **Data Structures & Algorithms** for problem-solving excellence.  
-💬 Ask me about **Frontend, React, Firebase Auth, JWT, Axios, SSLCommerz, Stripe/Razorpay, Framer Motion, Material UI**.  
+💬 Ask me about **Frontend, React.js, Next.js, TypeScript, Firebase Auth, JWT, Axios, SSLCommerz, Stripe/Razorpay, Framer Motion,GSAP,Tanstack, Three.js Material UI**.  
 📫 Reach me at **amitsarkar.dev.bd@gmail.com**  
 🎯 Goal: Become a **Full-Stack Developer** ready for global remote opportunities.
 
